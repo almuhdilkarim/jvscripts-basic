@@ -10,6 +10,8 @@ berikut kriteria untuk generate module dengan tipe conceptual
 5. setiap module yang berbentuk practice harus memiliki subheading 1 "konsep dasar"
 6. di generate sub head per subhead
 7. jangan gunakan sapaan awal untuk prompt
+8. buatkan blockqoutes untuk tips, peringatan atau info penting
+9. jangan gunakan icon apapun dalam blockqoutes
 
 
 ## kriteria subhead pendahuluan
@@ -19,6 +21,8 @@ berikut kriteria untuk generate module dengan tipe conceptual
 4. jumlah minimal paragraf untuk modul ini adalah 2 paragraf
 5. tidak ada sitasi ilmiah dalam subhead ini 
 6. berikan ilustrasi gambar minimal satu untuk subhead pendahuluan
+7. format path untuk gambar "session-1-part-1/[image-name.png]"
+8. gunakan pendekatan story telling yang menarik dalam penulisan
 
 
 ## kriteria subhead konsep dasar
@@ -28,6 +32,7 @@ berikut kriteria untuk generate module dengan tipe conceptual
 4. penjelasan dalam modul ini harus memberikan gambaran yang jelas terkait dengan konsep bahasan
 5. terdapat minimal 1 sitasi ilmiah dalam subhead ini 
 6. berikan ilustrasi gambar yang terkait dan mampu menjelaskan konsep dasar satu untuk subhead pendahuluan
+7. format path untuk gambar "session-1-part-1/[image-name.png]"
 
 
 ## kriteria subhead lainya
@@ -37,6 +42,7 @@ berikut kriteria untuk generate module dengan tipe conceptual
 3. jumlah minimal subhead 3 untuk modul ini adalah 3 paragraf
 4. penjelasan dalam modul ini harus memberikan gambaran sistematis terkait konsep pendukung
 5. sisipkan minimal 1 sitasi ilmiah dalam subhead ini 
+6. format path untuk gambar "session-1-part-1/[image-name.png]"
 
 
 ## kriteria untuk subhead kesimpulan
@@ -48,3 +54,18 @@ berikut kriteria untuk generate module dengan tipe conceptual
 ## kriteria untuk subhead reference
 1. hubungkan reference dengan pengutipan dalam tulisan
 2. susun menggunakan sitasi APA
+3. minimum referensi adalah 5 literatur
+
+
+## kriteria untuk gambar
+1. download seluruh image yang berada didalam konten dan kumpulkan dalam satu folder terkompresi dengan contoh format penamaan "session-1-part-1"
+2. seluruh gambar menggunakan orientasi landscape
+3. format png
+4. gunakan image dengan lisensi yang berada didalam domain publik, common creative atau unpslash
+
+
+## instruksi
+1. generate konten dan metadata
+2. siapkan file dengan format penamaan sebagai contoh "session-1-part-1.md"
+3. sesuaikan angka dengan session number dan module number
+4. download image dan kumpulkan dalam satu folder terkompresi dengan contoh format penamaan "session-1-part-1"

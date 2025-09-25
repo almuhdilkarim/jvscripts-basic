@@ -1,0 +1,13 @@
+#!/bin/bash
+session_itter=1
+session_conts=16
+modules_count=5
+content_paths="../content/repo/"
+for session_itter in {1..16}
+do
+    for module_itter in {1..5}
+    do
+        mkdir -p $content_paths/"session-$session_itter-part-$module_itter"
+        module_itter=$((module_itter + 1))
+    done
+done

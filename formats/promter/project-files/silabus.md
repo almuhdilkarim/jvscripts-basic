@@ -18,7 +18,7 @@ berikut format outline untuk course yang akan dibuat
 ---
 ## Session 1: title
 
-### module 1 : ( Title )
+### module 1 : ( Title ) / ( type of module ( practical | history | concept ) )
 #### keyidea_1 : ( key idea 1 for module 1 )
 #### keyidea_2 : ( key idea 2 for module 1 )
 #### keyidea_3 : ( key idea 4 for module 1 )
@@ -29,7 +29,7 @@ berikut format outline untuk course yang akan dibuat
 #### kesimpulan: "kesimpulan untuk module 1" 
 #### referensi : "referensi menggunakan APA" 
 
-### module 2 : ( Title )
+### module 2 : ( Title ) / ( type of module ( practical | history | concept ) )
 #### keyidea_1 : ( key idea 1 for module 2 )
 #### keyidea_2 : ( key idea 2 for module 2 )
 #### keyidea_3 : ( key idea 4 for module 2 )
@@ -40,7 +40,8 @@ berikut format outline untuk course yang akan dibuat
 #### kesimpulan: "kesimpulan untuk module 2" 
 #### referensi : "referensi menggunakan APA"
 
-### module 3 : ( Title )
+### module 3 : ( Title ) / 
+### typeof : practical | history | concept 
 #### keyidea_1 : ( key idea 1 for module 3 )
 #### keyidea_2 : ( key idea 2 for module 3 )
 #### keyidea_3 : ( key idea 4 for module 3 )
@@ -55,13 +56,17 @@ berikut format outline untuk course yang akan dibuat
 gunakan format mengunakan panduang berikut:
 1. Ganti "# course name" dengan judul course
 2. Ganti "## Session 1" dengan pertemuan dan berikan judul untuk pertemuan tersebut
+2. Ganti "### typeof" jenis module, bisa berupa sejarah, konsep atau praktek
 3. Ganti "module 1 " berikan judul untuk module  
 4. Ganti "key_idea 1-7" dengan sub judul untuk judul module
+5. ganti kata "key_idea*" menjadi bnumber list
+6. minimum referensi adalah 5 literatur
+7. gunakan literatur yang variatif dan berbeda antar modul
 
 
 Simpan dulu informasi format penulisan outline ini, saya akan menambahkan instruksi setelah ini terkait judul dan kriteria dari outline 
 
-## step 3 kaidah outline
+## kaidah outline
 
 berikut kaidah dari penbuatan outline:
 1. course memiliki 16 pertemuan
@@ -69,4 +74,11 @@ berikut kaidah dari penbuatan outline:
 3. setiap module memiliki minimal 7 gagasan pokok
 4. untuk module yang bersifat praktik terdapat minimal 9 gagasan pokok, 
 5. Untuk module yang bersifat praktik harus memiliki "kosep" "panduan instruksional" "kesalahan umum" dan "best practice" untuk sisanya berikan masukan
-5. untuk module yang bersifat sejarah, sesuaikan fase sejarah menjadi gagasan pokok dari pembahasan
+6. untuk module yang bersifat sejarah, sesuaikan fase sejarah menjadi gagasan pokok dari pembahasan
+
+
+## kaidah umum
+1. ganti semua element name, symbol dan tanda dengan nama simbol atau tanda pada setiap judul
+2. berikan quote untuk setiap elemen html yang berada dalam teks
+3. buatkan secara keseluruhan tanpa membagi menjadi beberapa bagian
+4. simpan file dalam format markdown
