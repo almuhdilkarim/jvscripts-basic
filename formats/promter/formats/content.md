@@ -1,6 +1,4 @@
-# module generator procedure
-
-## process 1 create metadata
+## content metadata
 
 ---
 date:  ""
@@ -52,8 +50,6 @@ kriteria pengisian metadata:
 7. require = prop berisi property requirement, name berisi nama requirement dan icon berisi nama icon, sedangkan desc berisi keterangan kenapa dibutuhkan
 8. pembuatan metadata hanya untuk modul
 
-## process 2 generate content
-1. generate konten menggunakan kriteria module, sesuaikan dengan jenisnya
 
 
 
