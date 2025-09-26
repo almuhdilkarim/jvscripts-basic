@@ -9,13 +9,15 @@
 
 ## module generation
 1. create new chat dengan sintaks "session 1 module 1"
-2. buatkan draft yang bisa saya review untuk modul ini, generate secara terpisah subhead per subhead dan konsisten dengan ketentuan
-3. jika sudah sesuai konfirmasi "simpan untuk penggabungan nanti dan lanjut" 
-4. jika belum konfirmasi dengan "revisi sesuai kaidah"
-5. rapikan kata kata "paragraf (nomer)", atau subhead dari paragraf yang tidak perlu
-7. lengkapi image didalam kontent untuk ilustrasi sesuai ketentuan
-6. gabungkan subhead yang telah disetujui dan direvisi, tuliskan versi narasi panjang lengkap di sini untuk review keseluruhan
-7. gabungkan metadata dan konten, lalu simpan dalam format md untuk hugo
+2. generate metadata
+3. simpan dalam file 
+4. pendahuluan review
+5. ikuti aturan
+7. append
+8. lanjut
+9. append
+10. kembali ke step 8 sampai module selesai
+
 
 
 ## image generation

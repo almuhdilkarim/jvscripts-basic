@@ -1,4 +1,4 @@
-## content metadata
+## module metadata
 
 ---
 date:  ""
@@ -48,10 +48,5 @@ kriteria pengisian metadata:
 5. short = beikan satu kata terkait materi yang meganggambarkan materi
 6. outcome = berisi capaian pembelajaran, minimal 1 untuk konseptual 1 praktikal
 7. require = prop berisi property requirement, name berisi nama requirement dan icon berisi nama icon, sedangkan desc berisi keterangan kenapa dibutuhkan
-8. pembuatan metadata hanya untuk modul
-
-
-
-
-
-
+8. description = isikan dengan description dengan format seo yang tepat
+9. untuk metadata yang fieldnya tidak jelaskan samakan field dan valuenya dengan format
