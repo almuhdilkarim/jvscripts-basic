@@ -20,7 +20,6 @@
 11. kembali ke step 8 sampai module selesai
 
 
-
 ## image generation
 1. buat list nama image dari konten
 2. buat file image kosong di dalam direktori sesuai dengan list
