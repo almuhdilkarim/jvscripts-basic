@@ -15,8 +15,9 @@
 5. ikuti aturan
 7. append
 8. lanjut
-9. append
-10. kembali ke step 8 sampai module selesai
+9. ikuti aturan
+10. append
+11. kembali ke step 8 sampai module selesai
 
 
 
